@@ -21,7 +21,7 @@ export const Sidebar = () => {
                     <span>
                         <FaRegCalendar />
                     </span>
-                    <span>Today</span></li>
+                    <span>today</span></li>
                 <li>
                     <span>
                         <FaRegCalendarAlt />
@@ -37,7 +37,7 @@ export const Sidebar = () => {
 
             <ul className="sidebar__projects">Project will be here!</ul>
 
-            Add Project! Component Here!!
+            Add project here!!!!
         </div>
     )
 }
